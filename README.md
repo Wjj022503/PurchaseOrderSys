@@ -1,5 +1,5 @@
 # PurchaseOrderSys
-This project I aim to practice Java object-oriented programming and GUI design.
+This project aim to practice Java object-oriented programming and GUI design.
 
 The purchase order system is  used to manage the procurement of goods and services.
 It automates the process of creating, approving, and tracking purchase orders from suppliers.
